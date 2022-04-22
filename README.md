@@ -10,3 +10,7 @@ Steps to Setup
 2. Click on Edit and then Browse tab and select your local Server, credentials and put TVMaze on Database Name
 
 ![image](https://user-images.githubusercontent.com/25174259/164755900-4f865acf-267b-4645-bcbc-17e19ed9b0ac.png)
+
+3. Once database is setup on your local instance. Set TVMaze.DataImporter as Startup Project and run it.
+
+4. Once done with the import, you can test the TVMaze API 
