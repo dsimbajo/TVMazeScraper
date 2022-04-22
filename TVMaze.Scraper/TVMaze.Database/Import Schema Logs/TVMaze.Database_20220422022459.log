@@ -1,0 +1,87 @@
+22/04/2022 10:24:59 am	This log contains information about the import schema operation into project 'TVMaze.Database' on computer 'DGTECH-DEV1' by user 'DG-Tech'.
+22/04/2022 10:24:59 am	Import of database schema has started.
+22/04/2022 10:25:03 am	Gathering database credentials
+22/04/2022 10:25:03 am	Gathering database options
+22/04/2022 10:25:03 am	Gathering generic database scoped configuration option
+22/04/2022 10:25:03 am	Gathering users
+22/04/2022 10:25:03 am	Gathering roles
+22/04/2022 10:25:03 am	Gathering application roles
+22/04/2022 10:25:03 am	Gathering role memberships
+22/04/2022 10:25:03 am	Gathering filegroups
+22/04/2022 10:25:03 am	Gathering full-text catalogs
+22/04/2022 10:25:03 am	Gathering assemblies
+22/04/2022 10:25:03 am	Gathering certificates
+22/04/2022 10:25:03 am	Gathering asymmetric keys
+22/04/2022 10:25:03 am	Gathering symmetric keys
+22/04/2022 10:25:03 am	Gathering encrypted symmetric keys
+22/04/2022 10:25:03 am	Gathering schemas
+22/04/2022 10:25:03 am	Gathering XML schema collections
+22/04/2022 10:25:03 am	Gathering user-defined data types
+22/04/2022 10:25:03 am	Gathering user-defined types
+22/04/2022 10:25:03 am	Gathering table types
+22/04/2022 10:25:03 am	Gathering unique keys for table types
+22/04/2022 10:25:03 am	Gathering primary keys for table types
+22/04/2022 10:25:03 am	Gathering indexes for table types
+22/04/2022 10:25:03 am	Gathering check constraints for table types
+22/04/2022 10:25:03 am	Gathering default constraints for table types
+22/04/2022 10:25:03 am	Gathering partition functions
+22/04/2022 10:25:03 am	Gathering partition schemes
+22/04/2022 10:25:03 am	Gathering functions
+22/04/2022 10:25:03 am	Gathering encrypted functions
+22/04/2022 10:25:03 am	Gathering aggregates
+22/04/2022 10:25:03 am	Gathering procedures
+22/04/2022 10:25:03 am	Gathering encrypted procedures
+22/04/2022 10:25:03 am	Gathering tables
+22/04/2022 10:25:03 am	Gathering primary keys
+22/04/2022 10:25:03 am	Gathering unique constraints
+22/04/2022 10:25:03 am	Gathering foreign keys
+22/04/2022 10:25:03 am	Gathering default constraints
+22/04/2022 10:25:03 am	Gathering check constraints
+22/04/2022 10:25:03 am	Gathering views
+22/04/2022 10:25:03 am	Gathering encrypted views
+22/04/2022 10:25:03 am	Gathering indexes
+22/04/2022 10:25:03 am	Gathering statistics
+22/04/2022 10:25:03 am	Gathering full-text index stoplists
+22/04/2022 10:25:03 am	Gathering search property lists
+22/04/2022 10:25:03 am	Gathering search properties
+22/04/2022 10:25:03 am	Gathering full-text indexes
+22/04/2022 10:25:03 am	Gathering column store indexes
+22/04/2022 10:25:03 am	Gathering spatial indexes
+22/04/2022 10:25:03 am	Gathering XML indexes
+22/04/2022 10:25:03 am	Gathering Selective XML indexes
+22/04/2022 10:25:03 am	Gathering encrypted triggers
+22/04/2022 10:25:03 am	Gathering triggers
+22/04/2022 10:25:03 am	Gathering encrypted and clr ddl triggers
+22/04/2022 10:25:03 am	Gathering ddl triggers
+22/04/2022 10:25:03 am	Creating edge constraints
+22/04/2022 10:25:03 am	Gathering synonyms
+22/04/2022 10:25:03 am	Gathering defaults
+22/04/2022 10:25:03 am	Gathering data constraint uddt bindings
+22/04/2022 10:25:03 am	Gathering rules
+22/04/2022 10:25:03 am	Gathering data constraint uddt bindings
+22/04/2022 10:25:03 am	Gathering message types
+22/04/2022 10:25:03 am	Gathering queues
+22/04/2022 10:25:03 am	Gathering contracts
+22/04/2022 10:25:03 am	Gathering services
+22/04/2022 10:25:03 am	Gathering event notifications
+22/04/2022 10:25:03 am	Gathering remote service bindings
+22/04/2022 10:25:03 am	Gathering broker priorities
+22/04/2022 10:25:03 am	Gathering signatures
+22/04/2022 10:25:03 am	Gathering data compression options
+22/04/2022 10:25:03 am	Gathering sequence types
+22/04/2022 10:25:03 am	Gathering security policies
+22/04/2022 10:25:03 am	Gather column encryption keys
+22/04/2022 10:25:03 am	Gathering column master keys
+22/04/2022 10:25:03 am	Gathering external data sources
+22/04/2022 10:25:03 am	Gathering external file formats
+22/04/2022 10:25:03 am	Gathering external tables
+22/04/2022 10:25:03 am	Gathering extended properties
+22/04/2022 10:25:03 am	Gathering assemblies
+22/04/2022 10:25:03 am	Gathering credentials
+22/04/2022 10:25:03 am	Gathering logins
+22/04/2022 10:25:03 am	Gathering server audits
+22/04/2022 10:25:04 am	Scanning project for duplicate elements
+22/04/2022 10:25:04 am	Finished duplicate element processing
+22/04/2022 10:25:04 am	Finished importing database.
+22/04/2022 10:25:04 am	A summary of the import was saved to the following location: C:\Users\DG-Tech\Documents\Personal\TVMazeScraper\TVMaze.Scraper\TVMaze.Database\Import Schema Logs\TVMaze.Database_20220422022459.log
+22/04/2022 10:25:04 am	Click Finish to continue...

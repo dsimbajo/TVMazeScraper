@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TVMaze.Core", "TVMaze.Core\TVMaze.Core.csproj", "{B9C57BDB-DDA0-41F1-B135-BEF950FCAA29}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TVMaze.DataImporter", "TVMaze.DataImporter\TVMaze.DataImporter.csproj", "{462AAADE-363F-4766-BEBC-C50AA1963482}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TVMaze.Infrastructure", "TVMaze.Infrastructure\TVMaze.Infrastructure.csproj", "{B41C3D78-5AE7-498F-9618-43E1AE030D27}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TVMaze.Infrastructure.Tests", "TVMaze.Infrastructure.Tests\TVMaze.Infrastructure.Tests.csproj", "{C54F7202-737B-471A-AA8A-54CF3934FC8D}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "TVMaze.Database", "TVMaze.Database\TVMaze.Database.sqlproj", "{14F55B8C-638C-424E-9335-632ACD3F9A01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TVMaze.Web.API", "TVMaze.Web.API\TVMaze.Web.API.csproj", "{3EEC5A6D-3CFF-463A-848B-74005B2645AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9C57BDB-DDA0-41F1-B135-BEF950FCAA29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9C57BDB-DDA0-41F1-B135-BEF950FCAA29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9C57BDB-DDA0-41F1-B135-BEF950FCAA29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9C57BDB-DDA0-41F1-B135-BEF950FCAA29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{462AAADE-363F-4766-BEBC-C50AA1963482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{462AAADE-363F-4766-BEBC-C50AA1963482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{462AAADE-363F-4766-BEBC-C50AA1963482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{462AAADE-363F-4766-BEBC-C50AA1963482}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B41C3D78-5AE7-498F-9618-43E1AE030D27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B41C3D78-5AE7-498F-9618-43E1AE030D27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B41C3D78-5AE7-498F-9618-43E1AE030D27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B41C3D78-5AE7-498F-9618-43E1AE030D27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C54F7202-737B-471A-AA8A-54CF3934FC8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C54F7202-737B-471A-AA8A-54CF3934FC8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C54F7202-737B-471A-AA8A-54CF3934FC8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C54F7202-737B-471A-AA8A-54CF3934FC8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14F55B8C-638C-424E-9335-632ACD3F9A01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14F55B8C-638C-424E-9335-632ACD3F9A01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14F55B8C-638C-424E-9335-632ACD3F9A01}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{14F55B8C-638C-424E-9335-632ACD3F9A01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14F55B8C-638C-424E-9335-632ACD3F9A01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14F55B8C-638C-424E-9335-632ACD3F9A01}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{3EEC5A6D-3CFF-463A-848B-74005B2645AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EEC5A6D-3CFF-463A-848B-74005B2645AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EEC5A6D-3CFF-463A-848B-74005B2645AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EEC5A6D-3CFF-463A-848B-74005B2645AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44FA2694-28CD-4821-885C-C5280A6CA25D}
+	EndGlobalSection
+EndGlobal

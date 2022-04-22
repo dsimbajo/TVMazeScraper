@@ -1,0 +1,13 @@
+TVMaze.Scraper/.vs/
+TVMaze.Scraper/TVMaze.Web.API/bin/
+TVMaze.Scraper/TVMaze.Web.API/obj/
+TVMaze.Scraper/TVMaze.Infrastructure/obj/
+TVMaze.Scraper/TVMaze.Infrastructure/bin/
+TVMaze.Scraper/TVMaze.Infrastructure.Tests/obj/
+TVMaze.Scraper/TVMaze.Infrastructure.Tests/bin/
+TVMaze.Scraper/TVMaze.DataImporter/obj/
+TVMaze.Scraper/TVMaze.DataImporter/bin/
+TVMaze.Scraper/TVMaze.Database/obj/
+TVMaze.Scraper/TVMaze.Database/bin/
+TVMaze.Scraper/TVMaze.Core/obj/
+TVMaze.Scraper/TVMaze.Core/bin/
