@@ -14,3 +14,6 @@ Steps to Setup
 3. Once database is setup on your local instance. Set TVMaze.DataImporter as Startup Project and run it.
 
 4. Once done with the import, you can test the TVMaze API 
+
+
+For Fail Retry Mechanism I used Polly and also created a custom global error handler
